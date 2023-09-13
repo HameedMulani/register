@@ -1,0 +1,12 @@
+{
+    "description": "Domain will be used to host my portfolio website.",
+    "repo": "https://github.com/05Alston/05Alston.github.io",
+    "owner": {
+        "username": "05Alston",
+        "email": "0508alstonfernandes@gmail.com",
+        "discord": "Hawk D.#8086"
+    },
+    "record": {
+        "CNAME": "05Alston.github.io"
+    }
+} 
